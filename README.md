@@ -2,6 +2,9 @@
 No more drivering without making money 
 ---
 
+
+May need some work you can run it if you would like i create things dont get paid so now it is a hobby to earn income 
+
 1. Software Bio Data File
 
 Here’s a professional software bio/metadata file (software_bio.md) you can include in your repo or documentation:
